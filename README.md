@@ -1,5 +1,3 @@
-# data-structures-practice-toolkit
-Menu-driven C++ program implementing core data structures and algorithms
 # Data Structures Practice Toolkit
 
 A menu-driven C++ application that allows users to interactively perform
